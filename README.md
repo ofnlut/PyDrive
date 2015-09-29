@@ -1,10 +1,5 @@
-# Bob.py
+# PyDrive
 
-Programmers reading this for the first time make sure that all of theses steps are taken
-
-*Did everything in the getting started page for [Robotpy](http://robotpy.readthedocs.org/en/latest/getting_started.html)
+Stolen from Team 1915 to test out different drive types for FRC robots...to use for the programming team....for 1915.
 
 
-
-
-```git clone https://github.com/Firebird1915/FRC2015PY.git```
